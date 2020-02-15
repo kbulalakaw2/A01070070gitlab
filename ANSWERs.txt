@@ -1,6 +1,5 @@
 git init
 git add .
 git push -m 'my message'
-git remote add https://github.com/kbulalakaw2/A01070070gitlab.git
-[D[D[D[D[D[D[D[D[D[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[Dorigin https://github.com/kbulalakaw2/A01070070gitlab.git
+git remote add origin https://github.com/kbulalakaw2/A01070070gitlab.git
 git push -u origin master
