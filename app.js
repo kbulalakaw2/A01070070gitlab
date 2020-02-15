@@ -32,3 +32,5 @@ function addMovie() {
     // Step 6: Call the clearInput function to clear the input field
     clearInput();
 }
+
+// I have used this version of the movie list because I do not have good faith in the one we had created
